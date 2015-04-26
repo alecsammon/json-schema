@@ -21,8 +21,7 @@
         {
             "name": "Robert Schönthal",
             "email": "seroscho@googlemail.com"
-        },
-        {
+        }
     ],
     "repositories": [{
         "type": "package",
