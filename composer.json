@@ -1,8 +1,8 @@
 {
-    "name": "alecsammon/json-schema",
+    "name": "cozylife/json-schema",
     "description": "A library to validate a json schema.",
     "keywords": ["json", "schema"],
-    "homepage": "https://github.com/alecsammon/json-schema",
+    "homepage": "https://github.com/cozylife/json-schema",
     "type": "library",
     "license": "BSD-3-Clause",
     "authors": [
